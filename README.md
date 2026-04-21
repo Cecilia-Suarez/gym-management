@@ -1,4 +1,4 @@
-#🥊Gym Management System🥊
+# 🥊Gym Management System🥊
 
 Desktop application for managing gym members, built for real-world usage at **300 Academia de Boxeo**.
 
